@@ -1,0 +1,1 @@
+React Native project incorporating Redux and Animations
